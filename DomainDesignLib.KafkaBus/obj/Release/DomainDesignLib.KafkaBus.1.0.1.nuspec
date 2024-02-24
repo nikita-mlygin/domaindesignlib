@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DomainDesignLib.KafkaBus</id>
+    <version>1.0.1</version>
+    <authors>DomainDesignLib.KafkaBus</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="DomainDesignLib.Abstractions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="KafkaFlow.Abstractions" version="3.0.3" exclude="Build,Analyzers" />
+        <dependency id="KafkaFlow.Microsoft.DependencyInjection" version="3.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.KafkaBus.dll" target="lib/net8.0/DomainDesignLib.KafkaBus.dll" />
+  </files>
+</package>

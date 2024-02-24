@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+0IW9ucRye1t7+c/BjU9A8K+AAvrxsxwgTGdKcYXCaP+C9eyQ+DBSXoV6UDPZbgw+fSeaIcU346NeNXx72Wgw==",
+  "success": true,
+  "projectFilePath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/DomainDesignLib.Persistence.csproj",
+  "expectedPackageFiles": [
+    "/home/nikita/.nuget/packages/dapper.logging/0.4.3/dapper.logging.0.4.3.nupkg.sha512",
+    "/home/nikita/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/home/nikita/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/nikita/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/nikita/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.3/microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

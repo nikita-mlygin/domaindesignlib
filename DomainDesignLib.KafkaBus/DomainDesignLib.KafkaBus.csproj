@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DomainDesignLib.Abstractions\DomainDesignLib.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="KafkaFlow.Abstractions" Version="3.0.3" />
+    <PackageReference Include="KafkaFlow.Microsoft.DependencyInjection" Version="3.0.3" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.2</Version>
+    <Author>popNaN</Author>
+    <GeneratePackageOnly>true</GeneratePackageOnly>
+  </PropertyGroup>
+
+</Project>

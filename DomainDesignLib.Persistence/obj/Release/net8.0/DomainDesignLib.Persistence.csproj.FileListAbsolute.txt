@@ -1,0 +1,15 @@
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/bin/Release/net8.0/DomainDesignLib.Persistence.deps.json
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/bin/Release/net8.0/DomainDesignLib.Persistence.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/bin/Release/net8.0/DomainDesignLib.Persistence.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/bin/Release/net8.0/DomainDesignLib.Abstractions.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/bin/Release/net8.0/DomainDesignLib.Abstractions.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.csproj.AssemblyReference.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.AssemblyInfoInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.AssemblyInfo.cs
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.csproj.CoreCompileInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.csproj.CopyComplete
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/refint/DomainDesignLib.Persistence.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/DomainDesignLib.Persistence.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/Release/net8.0/ref/DomainDesignLib.Persistence.dll

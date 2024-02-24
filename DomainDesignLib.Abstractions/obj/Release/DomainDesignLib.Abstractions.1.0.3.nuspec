@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DomainDesignLib.Abstractions</id>
+    <version>1.0.3</version>
+    <authors>DomainDesignLib.Abstractions</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="MediatR.Contracts" version="2.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/bin/Release/net8.0/DomainDesignLib.Abstractions.dll" target="lib/net8.0/DomainDesignLib.Abstractions.dll" />
+  </files>
+</package>

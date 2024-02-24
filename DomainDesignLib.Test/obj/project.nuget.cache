@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wfr/zQC+rgXbGQ663DBpVLLR62D3CnVsG1BG5VI76WOnmUQIqy4uYbU9afVTgiXg+BNmU9ltayQdThcy869vIg==",
+  "success": true,
+  "projectFilePath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Test/DomainDesignLib.Test.csproj",
+  "expectedPackageFiles": [
+    "/home/nikita/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

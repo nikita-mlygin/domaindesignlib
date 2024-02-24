@@ -1,0 +1,15 @@
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.KafkaBus.deps.json
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.KafkaBus.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.KafkaBus.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.Abstractions.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/bin/Release/net8.0/DomainDesignLib.Abstractions.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.csproj.AssemblyReference.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.AssemblyInfoInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.AssemblyInfo.cs
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.csproj.CoreCompileInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.csproj.CopyComplete
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/refint/DomainDesignLib.KafkaBus.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/DomainDesignLib.KafkaBus.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.KafkaBus/obj/Release/net8.0/ref/DomainDesignLib.KafkaBus.dll

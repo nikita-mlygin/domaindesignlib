@@ -1,0 +1,12 @@
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/bin/Release/net8.0/DomainDesignLib.Abstractions.deps.json
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/bin/Release/net8.0/DomainDesignLib.Abstractions.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/bin/Release/net8.0/DomainDesignLib.Abstractions.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.csproj.AssemblyReference.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.AssemblyInfoInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.AssemblyInfo.cs
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.csproj.CoreCompileInputs.cache
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/refint/DomainDesignLib.Abstractions.dll
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/DomainDesignLib.Abstractions.pdb
+/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/Release/net8.0/ref/DomainDesignLib.Abstractions.dll

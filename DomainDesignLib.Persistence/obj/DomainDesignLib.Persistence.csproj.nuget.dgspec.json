@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/DomainDesignLib.Persistence.csproj": {}
+  },
+  "projects": {
+    "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/DomainDesignLib.Abstractions.csproj": {
+      "version": "1.0.5.5",
+      "restore": {
+        "projectUniqueName": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/DomainDesignLib.Abstractions.csproj",
+        "projectName": "DomainDesignLib.Abstractions",
+        "projectPath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/DomainDesignLib.Abstractions.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/DomainDesignLib.Persistence.csproj": {
+      "version": "0.0.5",
+      "restore": {
+        "projectUniqueName": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/DomainDesignLib.Persistence.csproj",
+        "projectName": "DomainDesignLib.Persistence",
+        "projectPath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/DomainDesignLib.Persistence.csproj",
+        "packagesPath": "/home/nikita/.nuget/packages/",
+        "outputPath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nikita/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/DomainDesignLib.Abstractions.csproj": {
+                "projectPath": "/home/nikita/NaN/DomainDesignLib/DomainDesignLib.Abstractions/DomainDesignLib.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper.Logging": {
+              "target": "Package",
+              "version": "[0.4.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
